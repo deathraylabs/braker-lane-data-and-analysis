@@ -4,4 +4,8 @@ This repo contains information that the residents of Whisper Valley and its stak
 
 That said, I do think this data is useful in that it provides a starting point to decide if further investigation is warranted using more accurate techniques as well as giving a qualitative overview of some traffic patterns.
 
-## what data does this repo contain?
+## directory structure
+
+| directory name | directory description |
+| :------------- | :-------------------- |
+| csv converted stalker data | Minimally processed data converted from binary source file to a CSV text file. |
