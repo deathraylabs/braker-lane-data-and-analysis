@@ -8,4 +8,8 @@ That said, I do think this data is useful in that it provides a starting point t
 
 | directory name | directory description |
 | :------------- | :-------------------- |
-| csv converted stalker data | Minimally processed data converted from binary source file to a CSV text file. |
+| `csv converted stalker data/` | Minimally processed data converted from binary source file to a CSV text file. |
+| `csv speed data/` | Processed data containing speed, time, and record number in csv format. |
+| `STALKER_ROADSIDE_LOGS/` | Raw binary data that must be processed to be read. |
+| `summary graphs/` | Image/PDF files containing data analysis and graphs. |
+| `all_exploded_speed_data.csv` | Single CSV file containing all _csv speed data_ for Braker Lane. |
